@@ -13,3 +13,9 @@ Environtment :
 	4. MySQL Server 5.5
 	5. Tomcat 9
 	
+User 	: john
+       	  susan
+      	  mary
+
+Password : fun123
+	
